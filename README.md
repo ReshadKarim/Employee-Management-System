@@ -1,2 +1,2 @@
-# CSE470_EMS
-Employee Management System
+# CSE470
+# CSE470
