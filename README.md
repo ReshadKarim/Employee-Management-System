@@ -1,2 +1,7 @@
-# CSE470
+# CSE470 Employee Management System
 
+An employee management system is a distributed system developed to maintain the employee details and the company workflow process systematically. Employee engagement systems are structured to accurately monitor, assess, and control the working hours of workers and to efficiently utilize the human resources. As a business, employees are a true asset. Managing them is no doubt a challenging task, especially when the number of employees increases, it’s even harder to control the entire workforce. Also in the time of the pandemic, a lot of companies have shifted their work online, as a result desk-job employees from distant areas can do their job without the hassle of transport. Also good employees can be recruited from all over the world. With such problems in mind we have come up with the employee monitoring and tracking system. Through our system, a company can manage their huge number of employees by tracking their workflow data and attendance. This system will increase the productivity rate of the employees as every task can be scheduled and worktime, attendance, activity details of the employees will be documented.
+
+
+**Motivation**
+Our motivation came from the recent pandemic as many desk-job workers lost their jobs due to not being able to physically attend their workplace. Also many companies shifted to online but couldn’t manage their numbers of employees. This gave us an idea that we can build a system which will solve all the problems a  company has to face after shifting their office based work to online. Hence, the employees can continue their work from home without any hustle and the supervisors can monitor their workflow.
